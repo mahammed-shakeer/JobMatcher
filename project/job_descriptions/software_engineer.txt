@@ -1,0 +1,18 @@
+We are looking for a passionate Software Engineer to design, develop and install software solutions.
+
+Responsibilities:
+- Write clean, efficient, and testable code in Python, Java, or C++
+- Collaborate with cross-functional teams to define and design software features
+- Participate in code reviews and maintain documentation
+- Troubleshoot, debug and upgrade existing systems
+- Build and deploy applications using CI/CD pipelines
+
+Requirements:
+- Strong knowledge of Data Structures and Algorithms
+- Proficiency in one or more programming languages (e.g., Python, Java, C++)
+- Experience with version control systems like Git
+- Familiarity with REST APIs and Object-Oriented Programming
+- Good understanding of database systems (SQL and NoSQL)
+- Excellent problem-solving and communication skills
+
+

@@ -1,0 +1,17 @@
+We are looking for a skilled and creative Web Developer to join our team.
+
+Responsibilities:
+- Develop responsive websites using HTML, CSS, and JavaScript
+- Work with frameworks such as React or Angular
+- Implement backend services using Node.js or Express
+- Integrate RESTful APIs and third-party services
+- Optimize applications for maximum speed and scalability
+- Use Git for version control and team collaboration
+
+Requirements:
+- Proficient in HTML, CSS, JavaScript
+- Experience with front-end frameworks like React or Vue
+- Familiar with backend tools like Node.js and Express.js
+- Understanding of MongoDB or other NoSQL databases
+- Strong knowledge of responsive design and cross-browser compatibility
+- Familiarity with version control tools like Git and GitHub

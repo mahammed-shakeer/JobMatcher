@@ -1,0 +1,16 @@
+We are hiring a DevOps Engineer to automate and improve our development and deployment processes.
+
+Responsibilities:
+- Build and maintain CI/CD pipelines
+- Manage cloud infrastructure (preferably AWS)
+- Use Docker and Kubernetes for containerization and orchestration
+- Monitor systems using Prometheus, Grafana, or other tools
+- Implement infrastructure as code using Terraform or CloudFormation
+
+Requirements:
+- Proficient with Linux-based systems and shell scripting
+- Hands-on experience with Docker and Kubernetes
+- Familiarity with CI/CD tools like Jenkins, GitHub Actions, or GitLab CI
+- Experience with AWS services such as EC2, S3, IAM, and Lambda
+- Strong understanding of networking, security, and monitoring practices
+- Knowledge of Terraform or similar IaC tools

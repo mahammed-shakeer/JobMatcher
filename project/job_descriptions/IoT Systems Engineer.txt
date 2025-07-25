@@ -1,0 +1,16 @@
+We are looking for an IoT Systems Engineer to develop and integrate smart, connected devices and solutions.
+
+Responsibilities:
+- Design IoT architectures using sensors, microcontrollers, and communication modules
+- Develop firmware for embedded devices (e.g., ESP32, Arduino)
+- Integrate cloud services (AWS IoT, Azure IoT, etc.)
+- Work with communication protocols like MQTT, HTTP, BLE, LoRa, and Zigbee
+- Create dashboards for device data monitoring and control
+
+Requirements:
+- Proficiency in C/C++ and Python for embedded and IoT development
+- Experience with MQTT, CoAP, and REST APIs
+- Familiarity with platforms like Node-RED, Blynk, or ThingsBoard
+- Hands-on with Wi-Fi, Bluetooth, Zigbee, or LoRa communication
+- Understanding of IoT security and device provisioning
+- Knowledge of cloud platforms like AWS, Azure, or Google Cloud IoT

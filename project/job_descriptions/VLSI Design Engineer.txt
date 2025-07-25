@@ -1,0 +1,16 @@
+We are hiring a VLSI Design Engineer for front-end or back-end digital design and verification tasks.
+
+Responsibilities:
+- Design RTL using Verilog or VHDL for digital circuits
+- Perform functional and timing verification using simulation tools
+- Work on ASIC/FPGA design flows, synthesis, and STA
+- Collaborate with hardware and software teams for SoC integration
+- Document design specs and test plans
+
+Requirements:
+- Proficient in Verilog or VHDL for RTL design
+- Experience with EDA tools like ModelSim, Vivado, Synopsys or Cadence
+- Understanding of digital design concepts: FSM, pipelining, clock gating
+- Basic knowledge of CMOS and semiconductor fundamentals
+- Familiarity with FPGA boards (e.g., Xilinx, Altera)
+- Good problem-solving and debugging skills

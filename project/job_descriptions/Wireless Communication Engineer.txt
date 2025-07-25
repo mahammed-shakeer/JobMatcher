@@ -1,0 +1,16 @@
+We are hiring a Wireless Communication Engineer to design and analyze RF communication systems.
+
+Responsibilities:
+- Design and simulate wireless systems using MATLAB or Python
+- Work on LTE, 5G, Wi-Fi, Bluetooth, and other wireless protocols
+- Analyze signal processing algorithms for modulation, filtering, and error correction
+- Perform RF measurements using spectrum analyzers and vector signal generators
+- Support antenna and RF front-end development
+
+Requirements:
+- Strong understanding of digital and analog communication principles
+- Experience with wireless protocols (e.g., LTE, 5G, Wi-Fi, BLE)
+- Proficiency in MATLAB, Python, or LabVIEW
+- Knowledge of SDR platforms (e.g., USRP, RTL-SDR)
+- Familiarity with modulation schemes, channel coding, and OFDM
+- Understanding of RF circuit design and simulation

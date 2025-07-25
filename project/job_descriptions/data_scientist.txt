@@ -1,0 +1,17 @@
+We are seeking a Data Scientist to analyze large amounts of raw information and build data products to extract valuable insights.
+
+Responsibilities:
+- Collect, clean, and process large datasets
+- Apply statistical analysis and machine learning algorithms to solve business problems
+- Create predictive models and data visualizations
+- Communicate results clearly to stakeholders
+- Work with Python and libraries like Pandas, NumPy, and Scikit-learn
+
+Requirements:
+- Strong knowledge of statistics and machine learning techniques
+- Proficient in Python and data libraries (Pandas, Numpy, Scikit-learn)
+- Experience with SQL for data extraction and transformation
+- Familiarity with data visualization tools like Matplotlib or Seaborn
+- Understanding of model evaluation techniques and overfitting
+- Ability to interpret complex data and present actionable insights
+

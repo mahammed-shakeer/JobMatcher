@@ -1,0 +1,16 @@
+We are seeking an Embedded Systems Engineer to design and develop embedded software for microcontroller-based systems.
+
+Responsibilities:
+- Design, develop, and debug embedded software using C/C++ or Assembly
+- Work with microcontrollers (ARM, AVR, PIC, etc.) and interfacing peripherals
+- Develop firmware for IoT and consumer electronics products
+- Optimize code for performance, memory, and power consumption
+- Read schematics and work closely with hardware engineers
+
+Requirements:
+- Strong knowledge of embedded C/C++ programming
+- Experience with microcontrollers (e.g., STM32, Arduino, ESP32, etc.)
+- Familiarity with communication protocols: I2C, SPI, UART, CAN
+- Hands-on with debugging tools like oscilloscopes, logic analyzers
+- Understanding of RTOS concepts is a plus
+- Ability to write clear documentation and maintain version control (Git)

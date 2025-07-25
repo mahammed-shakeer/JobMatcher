@@ -1,0 +1,16 @@
+We are seeking a Power Electronics Engineer to design, simulate, and test power conversion systems.
+
+Responsibilities:
+- Design power converters (DC-DC, AC-DC, DC-AC) using MOSFETs, IGBTs, etc.
+- Simulate power systems using MATLAB/Simulink, LTSpice, or PLECS
+- Design PCB layouts for power circuits and ensure EMI/EMC compliance
+- Test and troubleshoot power modules in the lab
+- Collaborate with hardware and control system teams
+
+Requirements:
+- Strong knowledge of power electronics topologies
+- Proficient in MATLAB/Simulink and circuit simulation tools
+- Hands-on experience with converters, inverters, and rectifiers
+- Knowledge of embedded control in power systems (using microcontrollers or DSPs)
+- Experience with PCB design (Altium, Eagle, KiCad)
+- Understanding of safety standards and protection circuits

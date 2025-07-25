@@ -1,0 +1,33 @@
+python
+java
+git
+sql
+mongodb
+html
+css
+javascript
+apis
+algorithms
+data structures
+flask
+django
+rest
+tensorflow
+pandas
+numpy
+scikit-learn
+machine learning
+deep learning
+aws
+azure
+docker
+kubernetes
+ci/cd
+cloud
+oop
+linux
+react
+angular
+communication
+problem solving
+teamwork

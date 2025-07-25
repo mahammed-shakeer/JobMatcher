@@ -17,13 +17,31 @@ def clean_text(text):
     return text.lower()
 
 def load_job_descriptions():
-    job_data = {}
-    folder = "job_descriptions"
-    for file in os.listdir(folder):
-        if file.endswith(".txt"):
-            with open(os.path.join(folder, file), "r", encoding='utf-8') as f:
-                job_data[file[:-4]] = f.read()
-    return job_data
+    job_descriptions = {}
+    
+    # Get the absolute path of the directory containing app.py
+    # This makes the path robust regardless of where the app is run from
+    current_dir = os.path.dirname(__file__)
+    
+    # Construct the path to the 'job_descriptions' folder
+    job_descriptions_folder = os.path.join(current_dir, "job_descriptions")
+
+    # Check if the directory exists (good for debugging)
+    if not os.path.exists(job_descriptions_folder):
+        st.error(f"Error: 'job_descriptions' folder not found at {job_descriptions_folder}")
+        return {} # Or raise an error, depending on desired behavior
+
+    # Iterate through files in the job_descriptions folder
+    for filename in os.listdir(job_descriptions_folder):
+        if filename.endswith(".txt"):
+            filepath = os.path.join(job_descriptions_folder, filename)
+            try:
+                with open(filepath, "r", encoding="utf-8") as f:
+                    job_title = os.path.splitext(filename)[0] # e.g., "data_scientist"
+                    job_descriptions[job_title] = f.read()
+            except Exception as e:
+                st.error(f"Error reading file {filepath}: {e}")
+    return job_descriptions
 
 def calculate_similarity(resume_text, job_text):
     vectorizer = TfidfVectorizer()
